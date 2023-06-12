@@ -1,0 +1,17 @@
+{
+  "name": "p4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0",
+    "pg": "^8.11.0",
+    "testcontainers": "^9.8.0"
+  }
+}
